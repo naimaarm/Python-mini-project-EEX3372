@@ -1,0 +1,4 @@
+Lorrie:2600kg
+Lorrie:2500kg
+Lorrie:2700kg
+Lorrie:2800kg

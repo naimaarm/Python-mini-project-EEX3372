@@ -1,0 +1,6 @@
+Truck:7ft
+Truck:8ft
+Truck:9ft
+Truck:10ft
+Truck:11ft
+Truck:12ft

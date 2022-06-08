@@ -1,0 +1,7 @@
+Car:3:None AC
+Car:4:None AC
+
+3wheeler:1
+
+Lorrie:2800kg
+Truck:11ft
