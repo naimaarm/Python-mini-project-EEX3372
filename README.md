@@ -38,10 +38,15 @@ Following features have to be in the program,
 • See available vehicles in each category
 
 Complied python source code for the system, which is described above
+
 Task 02 : Documentation (Presentation for Viva)
 
 The documentation should describe your implementation covering the following areas. 
+
 ▪ Introduction
+
 ▪ Flowchart of the program
+
 ▪ Source code
+
 ▪ Conclusion
