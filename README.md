@@ -24,11 +24,17 @@ Max load and size - 2500kg and 3500kg
 Customer can be able to choose a vehicle according to his/ her requirements. Vehicles should 
 be in a queue and the next available vehicle must be given, which matches the customer 
 requirements.
+
 Following features have to be in the program,
+
 • Add a new vehicle to the system
+
 • Remove a vehicle from the system
+
 • Assign a job (hire)
+
 • Release form assigned job (hire) after completing
+
 • See available vehicles in each category
 
 Complied python source code for the system, which is described above
