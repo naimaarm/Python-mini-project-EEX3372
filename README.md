@@ -3,16 +3,21 @@ Using python programming language, design and implement a program for a cab serv
 requirements as follows.
 Cab service has 5 types of vehicles. Cars, Vans, 3 Wheelers, Lorries. Trucks.
 Details of each vehicle as follows.
+
 Car:
 maximum number of passengers - 3 and 4
 AC/ Non AC
+
 Van:
 Maximum number of passengers - 6 and 8
 AC/ Non AC
+
 3 Wheelers:
 Maximum number of passengers - 3
+
 Trucks:
 Size – 7 ft and 12 ft
+
 Lorry:
 Max load and size - 2500kg and 3500kg
 
